@@ -1,0 +1,44 @@
+/* Style cho body - Đổi font chữ và kích cỡ chữ */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Style cho header - Đổi màu nền */
+header {
+  background-color: #f4f4f4;
+}
+
+/* Style cho nav - Đổi màu nền */
+nav {
+  background-color: #333333;
+}
+
+/* Style cho main - Đổi màu nền và kích cỡ chữ */
+main {
+  background-color: #ffffff;
+  font-size: 18px;
+}
+
+/* Style cho footer - Đổi màu nền */
+footer {
+  background-color: #e2e2e2;
+}
+
+/* Style cho các li trong menu - Chuyển thành menu ngang và đặt độ rộng */
+li {
+  display: inline-block;
+  width: 120px;
+}
+
+/* Style cho tiêu đề h1 - Căn giữa, đổi font và màu chữ */
+h1 {
+  text-align: center;
+  font-family: "Georgia", serif;
+  color: #222222;
+}
+
+/* Style cho đoạn văn p - Tăng khoảng cách dòng cho dễ đọc */
+p {
+  line-height: 1.6;
+}
